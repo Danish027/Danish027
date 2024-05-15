@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Hello! My name is Mohammed Danish, and I'm currently a full stack development student with a passion for creating dynamic and responsive web applications. 
+Hello! My name is Mohammed Danish, and I'm currently a full stack development student. 
 
 
 # 💻 Tech Stack:
